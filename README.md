@@ -1,1 +1,1 @@
-# minichat-java
+# Minichat - Java
